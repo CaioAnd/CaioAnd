@@ -5,20 +5,24 @@
  
  &nbsp;
  &nbsp;
+ 
 <div  align="center" style="margin-bottom:100px">
 
-![Gamemaker](https://img.shields.io/badge/Gamemaker-black?style=for-the-badge&logo=Gamemaker&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
-![java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=OpenJDK&logoColor=white)&nbsp;
-
-&nbsp;
-&nbsp;
+ ![Gamemaker](https://img.shields.io/badge/Gamemaker-black?style=for-the-badge&logo=Gamemaker&logoColor=white)&nbsp;
+ ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+ ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+ ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)&nbsp;
+ ![java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=OpenJDK&logoColor=white)&nbsp;
+ 
+ &nbsp;
+ &nbsp;
 
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDV2bnJhY3kyaWtrbmUwenVlcGE5cW03cWFiZHV2MGx1c3dvbGRpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+
+ &nbsp;
+ &nbsp;
 
  <a href="https://www.instagram.com/cao.andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href = "mailto:caio.mk.andrade@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
